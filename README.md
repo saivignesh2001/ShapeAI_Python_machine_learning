@@ -1,4 +1,4 @@
-# ShapeAI_Python_machine_learning
+
 # ShapeAI_Python_Machine_Learning
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
